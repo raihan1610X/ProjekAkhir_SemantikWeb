@@ -1,0 +1,381 @@
+[
+    {
+        "id": 1,
+        "name": "rattata",
+        "type": "normal",
+        "region": "kanto",
+        "game": "red, blue, yellow",
+        "generation": 1
+        
+    },
+
+    {
+        "id": 2,
+        "name": "rattata",
+        "type": "dark, normal",
+        "region": "alola",
+        "game": "sun, moon, ultra sun, ultra moon",
+        "generation": 7
+        
+    },
+
+    {
+        "id": 3,
+        "name": "raticate",
+        "type": "normal",
+        "region": "kanto",
+        "game": "red, blue, yellow",
+        "generation": 1
+        
+    },
+
+    {
+        "id": 4,
+        "name": "raticate",
+        "type": "dark, normal",
+        "region": "alola",
+        "game": "sun, moon, ultra sun, ultra moon",
+        "generation": 7
+        
+    },
+
+    {
+        "id": 5,
+        "name": "raichu",
+        "type": "electro",
+        "region": "kanto",
+        "game": "red, blue, yellow",
+        "generation": 1
+        
+    },
+
+    {
+        "id": 6,
+        "name": "raichu",
+        "type": "electric, psychic",
+        "region": "alola",
+        "game": "sun, moon, ultra sun, ultra moon",
+        "generation": 7
+        
+    },
+
+    {
+        "id": 7,
+        "name": "sandshrew",
+        "type": "ground",
+        "region": "kanto",
+        "game": "red, blue, yellow",
+        "generation": 1
+        
+    },
+
+    {
+        "id": 8,
+        "name": "sandshrew",
+        "type": "ice, steel",
+        "region": "alola",
+        "game": "sun, moon, ultra sun, ultra moon",
+        "generation": 7
+        
+    },
+
+    {
+        "id": 9,
+        "name": "sandlash",
+        "type": "ground",
+        "region": "kanto",
+        "game": "red, blue, yellow",
+        "generation": 1
+        
+    },
+
+    {
+        "id": 10,
+        "name": "sandlash",
+        "type": "ice, steel",
+        "region": "alola",
+        "game": "sun, moon, ultra sun, ultra moon",
+        "generation": 7
+        
+    },
+
+    {
+        "id": 11,
+        "name": "vulpix",
+        "type": "fire",
+        "region": "kanto",
+        "game": "red, blue, yellow",
+        "generation": 1
+        
+    },
+
+    {
+        "id": 12,
+        "name": "vulpix",
+        "type": "ice",
+        "region": "alola",
+        "game": "sun, moon, ultra sun, ultra moon",
+        "generation": 7
+        
+    },
+
+    {
+        "id": 13,
+        "name": "ninetales",
+        "type": "fire",
+        "region": "kanto",
+        "game": "red, blue, yellow",
+        "generation": 1
+        
+    },
+
+    {
+        "id": 14,
+        "name": "ninetales",
+        "type": "ice",
+        "region": "alola",
+        "game": "sun, moon, ultra sun, ultra moon",
+        "generation": 7
+        
+    },
+    
+    {
+        "id": 15,
+        "name": "diglett",
+        "type": "ground",
+        "region": "kanto",
+        "game": "red, blue, yellow",
+        "generation": 1
+        
+    },
+
+    {
+        "id": 16,
+        "name": "diglett",
+        "type": "ground, steel",
+        "region": "alola",
+        "game": "sun, moon, ultra sun, ultra moon",
+        "generation": 7
+        
+    },
+
+    {
+        "id": 17,
+        "name": "dugtrio",
+        "type": "ground",
+        "region": "kanto",
+        "game": "red, blue, yellow",
+        "generation": 1
+        
+    },
+
+    {
+        "id": 18,
+        "name": "dugtrio",
+        "type": "ground, steel",
+        "region": "alola",
+        "game": "sun, moon, ultra sun, ultra moon",
+        "generation": 7
+        
+    },
+
+    {
+        "id": 19,
+        "name": "meowth",
+        "type": "normal",
+        "region": "kanto",
+        "game": "red, blue, yellow",
+        "generation": 1
+        
+    },
+
+    {
+        "id": 20,
+        "name": "meowth",
+        "type": "dark",
+        "region": "alola",
+        "game": "sun, moon, ultra sun, ultra moon",
+        "generation": 7
+        
+    },
+
+    {
+        "id": 21,
+        "name": "meowth",
+        "type": "steel",
+        "region": "galar",
+        "game": "sword, shield",
+        "generation": 8
+        
+    },
+
+    {
+        "id": 22,
+        "name": "persian",
+        "type": "normal",
+        "region": "kanto",
+        "game": "red, blue, yellow",
+        "generation": 1
+        
+    },
+
+    {
+        "id": 23,
+        "name": "persian",
+        "type": "dark",
+        "region": "alola",
+        "game": "sun, moon, ultra sun, ultra moon",
+        "generation": 7
+        
+    },
+
+    {
+        "id": 24,
+        "name": "perserker",
+        "type": "steel",
+        "region": "galar",
+        "game": "sword, shield",
+        "generation": 8
+        
+    },
+
+    {
+        "id": 25,
+        "name": "geodude",
+        "type": "rock, ground",
+        "region": "kanto",
+        "game": "red, blue, yellow",
+        "generation": 1
+        
+    },
+
+    {
+        "id": 26,
+        "name": "geodude",
+        "type": "rock, ground",
+        "region": "alola",
+        "game": "sun, moon, ultra sun, ultra moon",
+        "generation": 7
+        
+    },
+
+    {
+        "id": 27,
+        "name": "graveler",
+        "type": "rock, ground",
+        "region": "kanto",
+        "game": "red, blue, yellow",
+        "generation": 1
+        
+    },
+
+    {
+        "id": 28,
+        "name": "graveler",
+        "type": "rock, ground",
+        "region": "alola",
+        "game": "sun, moon, ultra sun, ultra moon",
+        "generation": 7
+        
+    },
+
+    {
+        "id": 29,
+        "name": "golem",
+        "type": "rock, ground",
+        "region": "kanto",
+        "game": "red, blue, yellow",
+        "generation": 1
+        
+    },
+
+    {
+        "id": 30,
+        "name": "golem",
+        "type": "rock, ground",
+        "region": "alola",
+        "game": "sun, moon, ultra sun, ultra moon",
+        "generation": 7
+        
+    },
+
+    {
+        "id": 31,
+        "name": "grimer",
+        "type": "poison",
+        "region": "kanto",
+        "game": "red, blue, yellow",
+        "generation": 1
+        
+    },
+
+    {
+        "id": 32,
+        "name": "grimer",
+        "type": "poison, dark",
+        "region": "alola",
+        "game": "sun, moon, ultra sun, ultra moon",
+        "generation": 7
+        
+    },
+
+    {
+        "id": 33,
+        "name": "muk",
+        "type": "poison",
+        "region": "kanto",
+        "game": "red, blue, yellow",
+        "generation": 1
+        
+    },
+
+    {
+        "id": 34,
+        "name": "muk",
+        "type": "poison, dark",
+        "region": "alola",
+        "game": "sun, moon, ultra sun, ultra moon",
+        "generation": 7
+        
+    },
+
+    {
+        "id": 35,
+        "name": "exeggutor",
+        "type": "grass, psychic",
+        "region": "kanto",
+        "game": "red, blue, yellow",
+        "generation": 1
+        
+    },
+
+    {
+        "id": 36,
+        "name": "exeggutor",
+        "type": "grass, dragon",
+        "region": "alola",
+        "game": "sun, moon, ultra sun, ultra moon",
+        "generation": 7
+        
+    },
+
+    {
+        "id": 37,
+        "name": "marowak",
+        "type": "ground",
+        "region": "kanto",
+        "game": "red, blue, yellow",
+        "generation": 1
+        
+    },
+
+    {
+        "id": 38,
+        "name": "marowak",
+        "type": "fire, ghost",
+        "region": "alola",
+        "game": "sun, moon, ultra sun, ultra moon",
+        "generation": 7
+        
+    }
+]
