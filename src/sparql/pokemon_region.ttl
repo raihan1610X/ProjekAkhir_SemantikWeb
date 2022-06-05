@@ -1,0 +1,272 @@
+@prefix id: <https://pokemon.com/> .
+@prefix item: <https://pokemon.com/entry#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+#Pokemon
+
+id:A001
+        item:Name "Rattata" ;
+        item:Type "Normal" ;
+        item:Region "Kanto" ;
+        item:Game "Red, Blue, Yellow" ;
+        item:Generation "1" .
+
+id:A002
+        item:Name "Rattata" ;
+        item:Type "Dark, Normal" ;
+        item:Region "Alola" ;
+        item:Game "Sun, Moon" ;
+        item:Generation "7" .
+        
+id:A003
+        item:Name "Raticate" ;
+        item:Type "Normal" ;
+        item:Region "Kanto" ;
+        item:Game "Red, Blue, Yellow" ;
+        item:Generation "1" .
+
+id:A004
+        item:Name "Raticate" ;
+        item:Type "Dark, Normal" ;
+        item:Region "Alola" ;
+        item:Game "Sun, Moon" ;
+        item:Generation "7" .
+
+id:A005
+        item:Name "Raichu" ;
+        item:Type "Electric" ;
+        item:Region "Kanto" ;
+        item:Game "Red, Blue, Yellow" ;
+        item:Generation "1" .
+
+id:A006
+        item:Name "Raichu" ;
+        item:Type "Electric, Psychic" ;
+        item:Region "Alola" ;
+        item:Game "Sun, Moon" ;
+        item:Generation "7" .
+        
+id:A007
+        item:Name "Sandshrew" ;
+        item:Type "Ground" ;
+        item:Region "Kanto" ;
+        item:Game "Red, Blue, Yellow" ;
+        item:Generation "1" .
+
+id:A008
+        item:Name "Sandshrew" ;
+        item:Type "Ice, Steel" ;
+        item:Region "Alola" ;
+        item:Game "Sun, Moon" ;
+        item:Generation "7" .
+        
+id:A009
+        item:Name "Sandlash" ;
+        item:Type "Ground" ;
+        item:Region "Kanto" ;
+        item:Game "Red, Blue, Yellow" ;
+        item:Generation "1" .
+
+id:A010
+        item:Name "Sandlash" ;
+        item:Type "Ice, Steel" ;
+        item:Region "Alola" ;
+        item:Game "Sun, Moon" ;
+        item:Generation "7" .
+        
+id:A011
+        item:Name "Vulpix" ;
+        item:Type "Fire" ;
+        item:Region "Kanto" ;
+        item:Game "Red, Blue, Yellow" ;
+        item:Generation "1" .
+
+id:A012
+        item:Name "Vulpix" ;
+        item:Type "Ice" ;
+        item:Region "Alola" ;
+        item:Game "Sun, Moon" ;
+        item:Generation "7" .
+        
+id:A013
+        item:Name "Ninetales" ;
+        item:Type "Fire" ;
+        item:Region "Kanto" ;
+        item:Game "Red, Blue, Yellow" ;
+        item:Generation "1" .
+
+id:A014
+        item:Name "Ninetales" ;
+        item:Type "Ice" ;
+        item:Region "Alola" ;
+        item:Game "Sun, Moon" ;
+        item:Generation "7" .
+        
+id:A015
+        item:Name "Diglett" ;
+        item:Type "Ground" ;
+        item:Region "Kanto" ;
+        item:Game "Red, Blue, Yellow" ;
+        item:Generation "1" .
+
+id:A016
+        item:Name "Diglett" ;
+        item:Type "Ground, Steel" ;
+        item:Region "Alola" ;
+        item:Game "Sun, Moon" ;
+        item:Generation "7" .
+
+id:A017
+        item:Name "Dugtrio" ;
+        item:Type "Ground" ;
+        item:Region "Kanto" ;
+        item:Game "Red, Blue, Yellow" ;
+        item:Generation "1" .
+
+id:A018
+        item:Name "Dugtrio" ;
+        item:Type "Ground, Steel" ;
+        item:Region "Alola" ;
+        item:Game "Sun, Moon" ;
+        item:Generation "7" .
+        
+id:A019
+        item:Name "Meowth" ;
+        item:Type "Normal" ;
+        item:Region "Kanto" ;
+        item:Game "Red, Blue, Yellow" ;
+        item:Generation "1" .
+
+id:A020
+        item:Name "Meowth" ;
+        item:Type "Dark" ;
+        item:Region "Alola" ;
+        item:Game "Sun, Moon" ;
+        item:Generation "7" .
+
+id:A021
+        item:Name "Meowth" ;
+        item:Type "Steel" ;
+        item:Region "Galar" ;
+        item:Game "Sword, Shield" ;
+        item:Generation "8" .
+
+id:A022
+        item:Name "Persian" ;
+        item:Type "Normal" ;
+        item:Region "Kanto" ;
+        item:Game "Red, Blue, Yellow" ;
+        item:Generation "1" .
+        
+id:A023
+        item:Name "Persian" ;
+        item:Type "Dark" ;
+        item:Region "Alola" ;
+        item:Game "Sun, Moon" ;
+        item:Generation "7" .
+
+id:A024
+        item:Name "Perserker" ;
+        item:Type "Steel" ;
+        item:Region "Galar" ;
+        item:Game "Sword, Shield" ;
+        item:Generation "8" .
+        
+id:A025
+        item:Name "Geodude" ;
+        item:Type "Rock, Ground" ;
+        item:Region "Kanto" ;
+        item:Game "Red, Blue, Yellow" ;
+        item:Generation "1" .
+
+id:A026
+        item:Name "Geodude" ;
+        item:Type "Rock, Ground" ;
+        item:Region "Alola" ;
+        item:Game "Sun, Moon" ;
+        item:Generation "7" .
+        
+id:A027
+        item:Name "Graveler" ;
+        item:Type "Rock, Ground" ;
+        item:Region "Kanto" ;
+        item:Game "Red, Blue, Yellow" ;
+        item:Generation "1" .
+
+id:A028
+        item:Name "Graveler" ;
+        item:Type "Rock, Ground" ;
+        item:Region "Alola" ;
+        item:Game "Sun, Moon" ;
+        item:Generation "7" .
+        
+id:A029
+        item:Name "Golem" ;
+        item:Type "Rock, Ground" ;
+        item:Region "Kanto" ;
+        item:Game "Red, Blue, Yellow" ;
+        item:Generation "1" .
+
+id:A030
+        item:Name "Golem" ;
+        item:Type "Rock, Ground" ;
+        item:Region "Alola" ;
+        item:Game "Sun, Moon" ;
+        item:Generation "7" .
+        
+id:A031
+        item:Name "Grimer" ;
+        item:Type "Poison" ;
+        item:Region "Kanto" ;
+        item:Game "Red, Blue, Yellow" ;
+        item:Generation "1" .
+
+id:A032
+        item:Name "Grimer" ;
+        item:Type "Poison, Dark" ;
+        item:Region "Alola" ;
+        item:Game "Sun, Moon" ;
+        item:Generation "7" .
+
+id:A033
+        item:Name "Muk" ;
+        item:Type "Poison" ;
+        item:Region "Kanto" ;
+        item:Game "Red, Blue, Yellow" ;
+        item:Generation "1" .
+
+id:A034
+        item:Name "Muk" ;
+        item:Type "Poison, Dark" ;
+        item:Region "Alola" ;
+        item:Game "Sun, Moon" ;
+        item:Generation "7" .
+        
+id:A035
+        item:Name "Exeggutor" ;
+        item:Type "Grass, Psychic" ;
+        item:Region "Kanto" ;
+        item:Game "Red, Blue, Yellow" ;
+        item:Generation "1" .
+
+id:A036
+        item:Name "Exeggutor" ;
+        item:Type "Grass, Dragon" ;
+        item:Region "Alola" ;
+        item:Game "Sun, Moon" ;
+        item:Generation "7" .
+        
+id:A037
+        item:Name "Marowak" ;
+        item:Type "Ground" ;
+        item:Region "Kanto" ;
+        item:Game "Red, Blue, Yellow" ; 
+        item:Generation "1" .
+
+id:A038
+        item:Name "Marowak" ;
+        item:Type "Fire, Ghost" ;
+        item:Region "Alola" ;
+        item:Game "Sun, Moon" ;
+        item:Generation "7" .
+    
